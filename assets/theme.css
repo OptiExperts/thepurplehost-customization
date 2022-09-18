@@ -1,0 +1,19 @@
+<style>
+@font-face {
+font-family: "Miller";
+src: url('https://cdn.shopify.com/s/files/1/0661/2054/8589/files/Miller-DisplayRoman_30509_1.ttf?v=1663466755') format("truetype");
+}
+ @font-face {
+font-family: "America";
+src: url('https://cdn.shopify.com/s/files/1/0661/2054/8589/files/GT_America_Light.ttf?v=1663468180') format("truetype");
+}
+h1,h2,h3,h4,h5,h6{
+font-family: "Miller" !important;
+}
+  
+p,body{
+font-family: "America" !important;
+}
+
+</style>
+
