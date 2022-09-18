@@ -99,7 +99,6 @@
               <span>{{ block.settings.text | escape }}</span>
             </div>
           {%- when 'buttons' -%}
-          <h1>this is a test</h1>
             <div class="banner__buttons{% if block.settings.button_label_1 != blank and block.settings.button_label_2 != blank %} banner__buttons--multiple{% endif %}" {{ block.shopify_attributes }}>
               {%- if block.settings.button_label_1 != blank -%}
                 <a{% if block.settings.button_link_1 == blank %} role="link" aria-disabled="true"{% else %} href="{{ block.settings.button_link_1 }}"{% endif %} class="button{% if block.settings.button_style_secondary_1 %} button--secondary{% else %} button--primary{% endif %}">{{ block.settings.button_label_1 | escape }}</a>
@@ -114,6 +113,12 @@
     </div>
   </div>
 </div>
+
+<style>
+  banner--desktop-transparent .banner__box {
+    color: 73, 121, 171;
+  }
+</style>
 
 {% schema %}
 {
