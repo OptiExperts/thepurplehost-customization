@@ -2,13 +2,14 @@
 <html class="no-js" lang="{{ request.locale.iso_code }}">
   <head>
 
-    {% if page.handle contains 'faq' %}
-    <style>
-    .main-page-title .page-title .h0 {
-     display: none;
-    }
-   </style>
-{% endif %}
+      {%if page.handle contains 'faq'%}
+        <style>
+          .main-page-title .page-title .h0 {
+            display: none;
+          }
+        </style>
+      {% endif %}
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
