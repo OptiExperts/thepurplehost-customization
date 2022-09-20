@@ -208,6 +208,7 @@
     min-width: calc(100% + 4rem);
     margin-top: 0;
     margin-left: -4rem;
+    border-radius: 50px;
   }
 
   .image-with-text--overlap .image-with-text__grid--reverse .image-with-text__content {
