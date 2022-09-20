@@ -625,6 +625,9 @@
       </a>
     </div>
   </header>
+
+
+
 </{% if section.settings.enable_sticky_header %}sticky-header{% else %}div{% endif %}>
 
 {%- if settings.cart_type == "notification" -%}
@@ -762,6 +765,13 @@
     }
   </script>
 {%- endif -%}
+
+<style>
+  header.header.header--middle-left.header--mobile-center.page-width.header--has-menu {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+</style>
 
 {% schema %}
 {
