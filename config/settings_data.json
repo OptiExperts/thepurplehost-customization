@@ -147,6 +147,27 @@
       },
       "footer": {
         "type": "footer",
+        "blocks": {
+          "073e3aca-2966-4cdd-a935-0dd95eaa47a3": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled-8.png",
+              "image_width": 110,
+              "alignment": ""
+            }
+          },
+          "914ae9c6-df42-4095-8c83-2b982543fb36": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer-menu"
+            }
+          }
+        },
+        "block_order": [
+          "073e3aca-2966-4cdd-a935-0dd95eaa47a3",
+          "914ae9c6-df42-4095-8c83-2b982543fb36"
+        ],
         "settings": {
           "color_scheme": "background-1",
           "newsletter_enable": false,
