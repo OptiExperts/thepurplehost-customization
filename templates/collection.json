@@ -30,21 +30,69 @@
     },
     "166378281095535c3c": {
       "type": "multicolumn",
+      "blocks": {
+        "f758ff12-081a-4513-9b1b-b3f556202e64": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hmmm.jpg",
+            "title": "Washington DC",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "bcd7e219-67e1-4eb9-903c-6830574bd76d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1111.jpg",
+            "title": "Orlando",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5b33b93d-294f-4168-a91c-8e12094f426d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/eueueue.jpg",
+            "title": "Dallas",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a5893d03-abd8-4ff9-8d63-e922db13cd04": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/palmmm.jpg",
+            "title": "Irvine",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "f758ff12-081a-4513-9b1b-b3f556202e64",
+        "bcd7e219-67e1-4eb9-903c-6830574bd76d",
+        "5b33b93d-294f-4168-a91c-8e12094f426d",
+        "a5893d03-abd8-4ff9-8d63-e922db13cd04"
+      ],
       "settings": {
-        "title": "\"A stay infused with creativity and culture\"",
+        "title": "A stay infused with creativity and culture",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "portrait",
+        "image_width": "half",
+        "image_ratio": "circle",
         "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "Button label",
         "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
+        "color_scheme": "inverse",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 32,
+        "padding_bottom": 8
       }
     }
   },
