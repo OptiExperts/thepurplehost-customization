@@ -442,7 +442,7 @@
         "background_style": "primary",
         "button_label": "Explore",
         "button_link": "shopify:\/\/collections",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 56,
