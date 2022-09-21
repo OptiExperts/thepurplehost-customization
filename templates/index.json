@@ -127,6 +127,42 @@
         "show_text_below": false
       }
     },
+    "1663787242637d1209": {
+      "type": "image-banner",
+      "blocks": {
+        "166378724239470d36-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hand-picked homes",
+            "heading_size": "h1"
+          }
+        },
+        "166378724239470d36-1": {
+          "type": "text",
+          "settings": {
+            "text": "We select quality properties and offer our guests only the best apartments, buildings, and & neighborhoods.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "166378724239470d36-0",
+        "166378724239470d36-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/section-1-img-1.c7380df47815def807f5_0431ba42-179d-49fb-aae3-3d639f40b972.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "1663432867328c4f36": {
       "type": "rich-text",
       "blocks": {
@@ -454,6 +490,7 @@
     "image_banner",
     "rich_text",
     "1663432094b34147ee",
+    "1663787242637d1209",
     "1663432867328c4f36",
     "16634330090c0d1225",
     "16634333289104117d",
