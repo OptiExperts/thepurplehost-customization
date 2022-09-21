@@ -55,7 +55,7 @@
         "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 32
       }
     },
     "166378281095535c3c": {
@@ -116,13 +116,13 @@
         "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "inverse",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 32,
-        "padding_bottom": 28
+        "padding_top": 4,
+        "padding_bottom": 48
       }
     }
   },
