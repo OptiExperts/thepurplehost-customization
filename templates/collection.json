@@ -28,6 +28,36 @@
         "padding_bottom": 36
       }
     },
+    "1663785014cd0463ca": {
+      "type": "rich-text",
+      "blocks": {
+        "43b5b160-ff75-4b7f-9302-5185a6c8ce34": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>A stay infused with creativity and culture<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "31cc021f-ddc2-4131-8a6b-750458c05d4c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From award-winning interiors to curated neighborhood guides, our stays celebrate what’s special about each city we call home.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "43b5b160-ff75-4b7f-9302-5185a6c8ce34",
+        "31cc021f-ddc2-4131-8a6b-750458c05d4c"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "166378281095535c3c": {
       "type": "multicolumn",
       "blocks": {
@@ -79,7 +109,7 @@
         "a5893d03-abd8-4ff9-8d63-e922db13cd04"
       ],
       "settings": {
-        "title": "A stay infused with creativity and culture",
+        "title": "",
         "heading_size": "h1",
         "image_width": "half",
         "image_ratio": "portrait",
@@ -88,7 +118,7 @@
         "background_style": "primary",
         "button_label": "Button label",
         "button_link": "",
-        "color_scheme": "inverse",
+        "color_scheme": "background-1",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 32,
@@ -99,6 +129,7 @@
   "order": [
     "banner",
     "product-grid",
+    "1663785014cd0463ca",
     "166378281095535c3c"
   ]
 }
