@@ -173,42 +173,6 @@
         "padding_bottom": 36
       }
     },
-    "16634330090c0d1225": {
-      "type": "image-with-text",
-      "blocks": {
-        "16634330082fa92061-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Extraordinary experiences unlocked",
-            "heading_size": "h2"
-          }
-        },
-        "16634330082fa92061-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Downtown one month, uptown the next -- live like a true local in a new neighborhood or city. Experience even more with access to our exclusive suite of partnership services* -- from gourmet meals & wine delivery to on-demand fitness & car rentals -- designed to elevate everyday living.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "16634330082fa92061-0",
-        "16634330082fa92061-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/section-3-img-3.1dcbbddfcf1ff1a78ade.jpg",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "center",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "16634333289104117d": {
       "type": "image-with-text",
       "blocks": {
@@ -240,7 +204,7 @@
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 12,
         "padding_bottom": 0
       }
@@ -297,7 +261,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "left",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 72,
@@ -324,10 +288,10 @@
         "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "content_layout": "overlap",
         "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -352,10 +316,10 @@
         "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "content_layout": "overlap",
         "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 12,
         "padding_bottom": 12
       }
@@ -380,10 +344,10 @@
         "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "content_layout": "overlap",
         "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 12,
         "padding_bottom": 12
       }
@@ -408,10 +372,10 @@
         "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "content_layout": "overlap",
         "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 80
       }
@@ -479,7 +443,6 @@
     "1663787242637d1209",
     "1663432867328c4f36",
     "16638296246f6d96d4",
-    "16634330090c0d1225",
     "16634333289104117d",
     "1663433518fb045555",
     "166343460899312794",
