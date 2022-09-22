@@ -137,6 +137,42 @@
         "padding_bottom": 68
       }
     },
+    "16638296246f6d96d4": {
+      "type": "image-with-text",
+      "blocks": {
+        "16638296244ae372bc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Extraordinary experiences unlocked",
+            "heading_size": "h2"
+          }
+        },
+        "16638296244ae372bc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Downtown one month, uptown the next -- live like a true local in a new neighborhood or city. Experience even more with access to our exclusive suite of partnership services* -- from gourmet meals & wine delivery to on-demand fitness & car rentals -- designed to elevate everyday living.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "16638296244ae372bc-0",
+        "16638296244ae372bc-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/section-3-img-3.1dcbbddfcf1ff1a78ade.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16634330090c0d1225": {
       "type": "image-with-text",
       "blocks": {
@@ -442,6 +478,7 @@
     "rich_text",
     "1663787242637d1209",
     "1663432867328c4f36",
+    "16638296246f6d96d4",
     "16634330090c0d1225",
     "16634333289104117d",
     "1663433518fb045555",
