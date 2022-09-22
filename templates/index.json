@@ -435,6 +435,62 @@
         "padding_top": 44,
         "padding_bottom": 52
       }
+    },
+    "166385441796238db6": {
+      "type": "multicolumn",
+      "blocks": {
+        "166385441762b9bd8a-0": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166385441762b9bd8a-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "166385441762b9bd8a-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166385441762b9bd8a-0",
+        "166385441762b9bd8a-1",
+        "166385441762b9bd8a-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Explore",
+        "button_link": "",
+        "color_scheme": "inverse",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 48
+      }
     }
   },
   "order": [
@@ -450,6 +506,7 @@
     "1663435512abbb332c",
     "166343552748de951a",
     "16634355364651737f",
-    "16634365744d07e010"
+    "16634365744d07e010",
+    "166385441796238db6"
   ]
 }
