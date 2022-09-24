@@ -2353,13 +2353,14 @@ input[type='checkbox'] {
 
   .header--mobile-left {
     grid-template-columns: auto 2fr 1fr;
+        margin-left: -20px;
+
   }
 }
 
 @media screen and (min-width: 990px) {
   .header__heading-link {
-    margin-left: -0.45rem;
-    margin-left: -20px;
+    margin-left: -0.75rem;
   }
 
   .header__heading,
