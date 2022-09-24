@@ -2359,6 +2359,7 @@ input[type='checkbox'] {
 @media screen and (min-width: 990px) {
   .header__heading-link {
     margin-left: -0.45rem;
+    margin-left: -20px;
   }
 
   .header__heading,
