@@ -2353,7 +2353,7 @@ input[type='checkbox'] {
 
   .header--mobile-left {
     grid-template-columns: auto 2fr 1fr;
-        margin-left: -40px;
+        margin-left: -35px;
 
   }
 }
