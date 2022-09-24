@@ -66,7 +66,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/hmmm.jpg",
             "title": "Washington DC",
-            "text": "<p><a href=\"\/products\/artistic-luxe-oasis\" title=\"Artistic Luxe Oasis\">Read more<\/a><\/p>",
+            "text": "",
             "link_label": "",
             "link": "shopify:\/\/products\/artistic-luxe-oasis"
           }
