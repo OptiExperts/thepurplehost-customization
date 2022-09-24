@@ -2353,7 +2353,7 @@ input[type='checkbox'] {
 
   .header--mobile-left {
     grid-template-columns: auto 2fr 1fr;
-        margin-left: -30px;
+        margin-left: -40px;
 
   }
 }
@@ -2572,7 +2572,7 @@ details[open] .modal-overlay::after {
   opacity: 1;
   transform: scale(1);
   transition: transform 150ms ease, opacity 150ms ease;
-  MARGIN-LEFT: 720PX;
+  MARGIN-LEFT: 730PX;
 }
 
 details:not([open]) > .header__icon--menu .icon-close,
