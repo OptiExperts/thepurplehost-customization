@@ -8,10 +8,10 @@
         "padding_bottom": 28
       }
     },
-    "1664127102913ee68a": {
+    "16641273204d868da7": {
       "type": "rich-text",
       "blocks": {
-        "1664127101cdd06cbd-1": {
+        "16641273208e474295-1": {
           "type": "text",
           "settings": {
             "text": "<p>For booking or any questions, please contact:<\/p><p>denis@esociadate.com<\/p>"
@@ -19,20 +19,20 @@
         }
       },
       "block_order": [
-        "1664127101cdd06cbd-1"
+        "16641273208e474295-1"
       ],
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": false,
-        "padding_top": 88,
-        "padding_bottom": 84
+        "padding_top": 100,
+        "padding_bottom": 96
       }
     }
   },
   "order": [
     "main",
-    "1664127102913ee68a"
+    "16641273204d868da7"
   ]
 }
