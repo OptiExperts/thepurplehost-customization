@@ -3,13 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -40,7 +33,6 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "cc57692a-cad7-4870-b22d-36cd5e1cadae",
         "variant_picker",
