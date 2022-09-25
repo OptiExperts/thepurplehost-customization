@@ -1,1 +1,38 @@
-{"sections":{"main":{"type":"main-page","settings":{"padding_top":28,"padding_bottom":28}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1664127102913ee68a": {
+      "type": "rich-text",
+      "blocks": {
+        "1664127101cdd06cbd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For booking or any questions, please contact:<\/p><p>denis@esociadate.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664127101cdd06cbd-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1664127102913ee68a"
+  ]
+}
