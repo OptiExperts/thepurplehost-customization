@@ -1,0 +1,10 @@
+.panel {
+    padding: 0 18px;
+    background-color: #383758;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    color: white;
+    margin-left: 80px;
+    margin-right: 80px;
+}
